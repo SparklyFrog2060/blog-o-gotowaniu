@@ -13,7 +13,7 @@ img{
 button{
     background: linear-gradient(to right, rgb(252, 252, 145), rgb(255, 255, 255));
     border-radius: 8px;
-    border: 4px double;
+    border: 4px;
     margin-top: 10px;
     padding-left: 20px;
     padding-right: 20px;
